@@ -46,7 +46,7 @@ aws-static-website-portfolio/
 - **AWS WAF**: Basic security protection
 - **CloudFormation**: Infrastructure deployment template
 
-## 📊 Actual Analytics Metrics (Last 28 Days)
+## 📊 Actual Analytics Metrics (First 28 Days)
 
 | Metric | Value |
 |--------|-------|
